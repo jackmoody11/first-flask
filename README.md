@@ -1,5 +1,4 @@
 # My First Flask Website
----
 
 This is my first Flask website. Right now, it is just a basic blog. In the
 future, I will hopefully implement some of my other projects (such as my
